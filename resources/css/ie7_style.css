@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.tab-content{ border:1px solid #ccc}
+ul.tabs li a{ border:1px solid #ccc}
+.shadow_overlay{ display:none}
+.tab-content{ margin:-2px 0 0 0}
+.selected{ border-bottom:0 !important; position:relative; z-index:99999; margin-top:-5px}
+.right_content ul li .radio_btn{ margin:-2px 10px 0 0}
+.margin_left_1{ margin-left:-40px !important}
+.right_content ul { width:90%}
+.scroll_box{ width:400px; overflow-x:hidden}
+#footer{ float:right !important; margin-left:170px !important; width:87%}
